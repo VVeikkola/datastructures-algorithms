@@ -1,0 +1,32 @@
+# Created at 2023-01-13T13:24:31.466
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+
+# Created at 2023-01-13T13:24:53.920
+Unexpected IOException with stream: Treenodes: 5000000
+Max depth of tree: 54
+Collision lenght: 1
+
+
+
+# Created at 2023-01-13T13:24:53.922
+Unexpected IOException: 6,1,oy.tol.tra.PerformanceTests,handleReadTestFilesWithBST,null,null,null
+
+
+# Created at 2023-01-13T13:24:53.924
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,oy.tol.tra.PerformanceTests,null,null,null
+
+
+# Created at 2023-01-13T13:24:53.926
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,oy.tol.tra.PhoneBookTests,null,null,null
+
+
+# Created at 2023-01-13T13:24:53.928
+Unexpected IOException with stream: Reading test data from file, please wait...
+
+

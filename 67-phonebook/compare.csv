@@ -1,0 +1,21 @@
+testfile,bytes,elements,time (ms)
+Hashtable:
+village.txt,4561,100,2
+small-town.txt,44892,1000,10
+town.txt,451617,10000,93
+large-town.txt,2255053,50000,412
+city.txt,4511688,100000,425
+large-city.txt,22554540,500000,1764
+metropolis.txt,45107513,1000000,4240
+capital.txt,90209834,2000000,7435
+megalopolis.txt,227564229,5000000,17780
+Binary search tree:
+village.txt,4561,100,3
+small-town.txt,44892,1000,4
+town.txt,451617,10000,15
+large-town.txt,2255053,50000,98
+city.txt,4511688,100000,183
+large-city.txt,22554540,500000,1253
+metropolis.txt,45107513,1000000,2793
+capital.txt,90209834,2000000,6547
+megalopolis.txt,227564229,5000000,18780
